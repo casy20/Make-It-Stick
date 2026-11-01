@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Make It Stick (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Make It Stick (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

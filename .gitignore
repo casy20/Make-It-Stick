@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+
+# Visual Studio cache and workspace files
+.vs/

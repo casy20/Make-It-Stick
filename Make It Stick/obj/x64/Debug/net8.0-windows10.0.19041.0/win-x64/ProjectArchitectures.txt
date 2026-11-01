@@ -1,0 +1,1 @@
+C:\Users\CasBu\source\repos\Make It Stick\Make It Stick\Make It Stick.csproj;x64
